@@ -1,3 +1,4 @@
 # practice_CCNA
+chia mạng đề thi K73:
 
-![image](https://github.com/AT190510-Cuong/practice_CCNA/assets/134201481/e299fec4-6c35-433f-b572-0ba002f6d225)
+![image](https://github.com/AT190510-Cuong/practice_CCNA/assets/134201481/2832a9d3-10fb-44bf-94fb-8c5188c621ef)
